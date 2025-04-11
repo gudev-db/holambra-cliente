@@ -13,6 +13,92 @@
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "Qual é o conceito de 'Cultura de Qualidade' da Holambra Cooperativa?"}, {"role": "assistant", "content": "O conceito de 'Cultura de Qualidade' da Holambra Cooperativa é a evolução do posicionamento anterior 'Excelência no Agronegócio'. Ele traduz a busca constante pela mais alta qualidade, refletida nos valores, atuação, produtos e serviços da cooperativa. O conceito carrega dualidades de sentido, como 'Cultura' (valores e plantio) e 'Qualidade' (excelência e compromisso), e é aplicado em resultados, negócios, relacionamentos, acesso ao mercado e crescimento."}]}
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "O que a palavra 'QUALIDADE' representa para a Holambra Cooperativa?"}, {"role": "assistant", "content": "Para a Holambra Cooperativa, 'QUALIDADE' representa trajetória, cooperação, ideal e orgulho. Reflete a história de um povo que veio da Holanda para o Brasil, o modelo cooperativista que une pessoas e recursos, a busca constante pela excelência e o orgulho de pertencer a uma cooperativa que trabalha pela prosperidade dos produtores e do setor agrícola."}]}
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "Quais são as cores primárias da marca Holambra Cooperativa?"}, {"role": "assistant", "content": "As cores primárias da marca Holambra Cooperativa são azul (Pantone 654C) e vermelho (Pantone 032C). O azul foi escolhido para transmitir seriedade e um padrão corporativo, enquanto o vermelho contrasta de forma equilibrada, sem vibração excessiva, especialmente em telas RGB."}]}
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a financial analyst specializing in agricultural cooperatives. Provide precise technical analysis of financial statements."
+    },
+    {
+      "role": "user",
+      "content": "What are Holambra's key accounting estimates?"
+    },
+    {
+      role": "assistant",
+      "content": "Critical accounting estimates:\n1) Credit Loss Provisions: R$4.7M based on individual risk assessment\n2) Asset Useful Lives: Annual review (buildings 4-20 years, equipment 1.7-50 years)\n3) Fair Value Measurements: Hierarchy applied to financial instruments\n4) Tax Assets: R$32.7M subject to recoverability assessment\n5) Lease Liabilities: R$31M recognized at present value\n6) Revenue Timing: Judgment on control transfer points"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a financial analyst specializing in agricultural cooperatives. Provide precise technical analysis of financial statements."
+    },
+    {
+      "role": "user",
+      "content": "How does Holambra handle tax contingencies?"
+    },
+    {
+      "role": "assistant",
+      "content": "Tax contingency approach:\n1) Funrural Contribution: R$39.2M not collected based on STF ruling (ADI 4735)\n2) Provisions: R$21.2M for doubtful tax credits (65% of total)\n3) Contingencies: Classified as probable/possible/remote\n4) Tax Positions: Regularly reviewed with legal counsel\n5) ICSM Subsidies: Treated as government grants (LC 160/2017)\n6) No material labor or civil contingencies reported"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a financial analyst specializing in agricultural cooperatives. Provide precise technical analysis of financial statements."
+    },
+    {
+      "role": "user",
+      "content": "What are Holambra's revenue recognition policies?"
+    },
+    {
+      "role": "assistant",
+      "content": "Revenue recognition follows a 5-step model:\n1) Product Sales: Recognized when control transfers (delivery)\n2) Service Revenue: Recognized as performed\n3) Forward Contracts: Deferred until fulfillment (R$158.5M in 2024)\n4) Member vs Non-Member: Segregated for tax purposes\n5) Variable Consideration: Estimated discounts/returns deducted\n6) Financing Components: Separated using effective interest method"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a financial analyst specializing in agricultural cooperatives. Provide precise technical analysis of financial statements."
+    },
+    {
+      "role": "user",
+      "content": "How does Holambra account for fixed assets?"
+    },
+    {
+      "role": "assistant",
+      "content": "Fixed asset accounting policies:\n1) Recognition: Historical cost + directly attributable costs\n2) Valuation: Independent appraisals for land/buildings/equipment\n3) Depreciation: Straight-line/production basis (1.67%-50% rates)\n4) Component accounting for assets with different useful lives\n5) Impairment testing: Annual review with no impairments in 2024\n6) Disposals: Gains/losses recognized in income statement"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a financial analyst specializing in agricultural cooperatives. Provide precise technical analysis of financial statements."
+    },
+    {
+      "role": "user",
+      "content": "What are Holambra's inventory valuation methods?"
+    },
+    {
+      "role": "assistant",
+      "content": "Holambra values inventories at the lower of cost or net realizable value:\n1) Cost Method: Weighted average cost including acquisition and transportation expenses\n2) Net Realizable Value: Estimated selling price less completion/selling costs\n3) Agricultural commodities follow ITG 2004 standards (compensation accounts)\n4) Regular impairment testing with no material write-downs reported in 2024"
+    }
+  ]
+}
+
+
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "Como deve ser aplicado o degradê nas peças gráficas da Holambra Cooperativa?"}, {"role": "assistant", "content": "O degradê nas peças gráficas da Holambra Cooperativa deve ser aplicado com um ponto de transição de 75% da área total. O degradê começa com a parte mais clara no canto superior e a mais escura no canto inferior direito, seguindo um ângulo de 45 graus. A inversão de cores ou ângulos deve ser evitada, exceto em casos específicos aprovados pelo departamento de marketing."}]}
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "Quais são as diretrizes para o uso do símbolo do moinho na marca Holambra?"}, {"role": "assistant", "content": "O símbolo do moinho na marca Holambra deve ser usado nas cores primárias (azul e vermelho) e nunca em outline (apenas contorno). Ele pode substituir o logotipo completo em casos extremos e ser explorado graficamente de forma total ou parcial, desde que sempre preenchido. O uso em cores secundárias ou complementares é proibido."}]}
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "Qual é a tipografia utilizada pela Holambra Cooperativa?"}, {"role": "assistant", "content": "A tipografia utilizada pela Holambra Cooperativa é a família Gibson, que inclui variações como Thin, Light, Book, Regular, Medium, SemiBold, Bold e Heavy, com versões em itálico. A fonte Gibson SemiBold é a preferencial para a assinatura da marca, enquanto outras variações são usadas para textos corridos, subtítulos e títulos, dependendo da necessidade."}]}
