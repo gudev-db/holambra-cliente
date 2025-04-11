@@ -47,6 +47,180 @@
     }
   ]
 }
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças corporativas, com foco em ativos imobilizados e arrendamentos. Responda com precisão técnica."
+    },
+    {
+      "role": "user",
+      "content": "Quais são as obrigações com cooperados da Holambra?"
+    },
+    {
+      "role": "assistant",
+      "content": "As obrigações com cooperados totalizaram R$83,96 milhões em 2024, compostas por:\n1) Contas Transitórias (R$53,68M): Créditos de produção vendida/recebida, não remunerados\n2) Produções a Pagar (R$29,33M): Vendas contratadas para pagamento em 2025\n3) Bonificação Extinta: Prática de 5% sobre serviços foi descontinuada em 2024\n4) Juros sobre Capital Próprio: Não houve distribuição em 2024\nObs: Redução de 29,1% no total vs 2023 (R$83,96M vs R$118,45M), refletindo a extinção das bonificações"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças corporativas, com foco em ativos imobilizados e arrendamentos. Responda com precisão técnica."
+    },
+    {
+      "role": "user",
+      "content": "Qual a situação tributária da Holambra em 2024?"
+    },
+    {
+      "role": "assistant",
+      "content": "Situação tributária em 2024:\n1) Isenção: Operações com cooperados (art.146 da Lei 5.764/71)\n2) Tributação: Operações com terceiros pelas alíquotas vigentes\n3) Base de cálculo: Lucro ajustado de R$45,9 milhões (após adições de R$54,7M e exclusões de R$48,0M)\n4) Contingências: \n- Trabalhista: R$5,2M em ações (risco 'possível')\n- Tributária: 1 processo sobre despesas financeiras (risco 'possível')\n5) Benefícios fiscais: Subvenção de ICMS (LC 160/2017) tratada como incentivo fiscal"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças corporativas, com foco em ativos imobilizados e arrendamentos. Responda com precisão técnica."
+    },
+    {
+      "role": "user",
+      "content": "Como são tratados os estoques agrícolas da Holambra?"
+    },
+    {
+      "role": "assistant",
+      "content": "A Holambra trata os estoques agrícolas conforme ITG 2004 do CFC:\n1) Produtos em depósito (73.054 ton em 2024) são contabilizados em contas de compensação (não integram o ativo)\n2) Mensuração: Pelo menor valor entre custo médio ponderado e valor realizável líquido\n3) Composição 2024:\n- Soja: 38,5% do volume (28.106 ton) e 43,7% do valor (R$40,5M)\n- Milho: 7,7% volume (5.642 ton) e 5,4% valor (R$5,0M)\n- Trigo: 23,5% volume (17.195 ton) e 23,6% valor (R$21,9M)\n4) Redução de 23,8% no volume total vs 2023 (73.054 vs 95.831 ton)"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças corporativas, com foco em ativos imobilizados e arrendamentos. Responda com precisão técnica."
+    },
+    {
+      "role": "user",
+      "content": "Qual a estrutura de financiamento da Holambra em 2024?"
+    },
+    {
+      "role": "assistant",
+      "content": "A estrutura de financiamento em 2024 apresenta:\n1) Empréstimos totais: R$654,7 milhões (redução de 9,3% vs 2023)\n- Finalidades: 72,9% capital de giro (R$477,4M), 14,1% imobilizado (R$92,0M)\n- Prazos: 59,7% curto prazo (R$390,9M), 40,3% longo prazo (R$263,8M)\n2) Taxas: Variam entre 6,5% a CDI+1,8%\n3) Garantias: Hipotecas, alienação fiduciária e ativos imobilizados\n4) Vencimentos: Concentrados em 2025 (R$398,3M) e 2026 (R$118,8M)\n5) Compliance: Sem descumprimento de cláusulas contratuais"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças corporativas, com foco em ativos imobilizados e arrendamentos. Responda com precisão técnica."
+    },
+    {
+      "role": "user",
+      "content": "Como a Holambra contabiliza seus ativos imobilizados e arrendamentos?"
+    },
+    {
+      "role": "assistant",
+      "content": "A Holambra contabiliza:\n1) Imobilizado: Reconhecido pelo custo histórico (R$415,2 milhões em 2024) com depreciação linear/produção (taxas de 1,67%-50% ao ano). Em 2024, adicionou R$120,9 milhões (principalmente em máquinas R$36,7M e edifícios R$56,4M)\n2) Arrendamentos (CPC 06): Ativos de direito de uso reconhecidos a valor presente (R$35,7M líquidos em 2024), depreciados pelo prazo do contrato. Passivos de arrendamento totalizam R$31,0M (circulante) + R$6,9M (não circulante)\n3) Não foram identificados impairments em 2024 após revisão das vidas úteis."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças com foco no setor agroindustrial. Responda de forma técnica e precisa sobre demonstrações financeiras de cooperativas."
+    },
+    {
+      "role": "user",
+      "content": "Como a Holambra gerencia seus produtos agrícolas em depósito?"
+    },
+    {
+      "role": "assistant",
+      "content": "A Holambra gerencia 73.054 toneladas em depósito (2024) através de:\n1) Contabilização em contas de compensação (ITG 2004), sem integrar o ativo\n2) Segregação por origem: Cooperados (32,7%) vs Parceiros (67,3%)\n3) Principais produtos:\n- Soja: 28.106 ton (38,5%) valorada em R$40,5M\n- Milho: 5.642 ton (7,7%) valorada em R$5,0M\n- Trigo: 17.195 ton (23,5%) valorada em R$21,9M\n4) Redução de 23,8% no volume total vs 2023 (73.054 vs 95.831 ton)"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças com foco no setor agroindustrial. Responda de forma técnica e precisa sobre demonstrações financeiras de cooperativas."
+    },
+    {
+      "role": "user",
+      "content": "Quais são as principais características dos empréstimos da Holambra?"
+    },
+    {
+      "role": "assistant",
+      "content": "Os empréstimos totalizam R$654,7M em 2024, com:\n1) Finalidades: 72,9% capital de giro (R$477,4M), 14,1% imobilizado (R$92,0M)\n2) Prazos: 59,7% curto prazo (vencimento ≤1 ano), 40,3% longo prazo\n3) Taxas: Variam de 6,5% a.a. até CDI+1,8%\n4) Garantias: Hipotecas, alienação fiduciária e ativos imobilizados\n5) Vencimentos concentrados: 2025 (R$398,3M) e 2026 (R$118,8M)"
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças com foco no setor agroindustrial. Responda de forma técnica e precisa sobre demonstrações financeiras de cooperativas."
+    },
+    {
+      "role": "user",
+      "content": "Como está estruturado o ativo imobilizado da Holambra?"
+    },
+    {
+      "role": "assistant",
+      "content": "O ativo imobilizado líquido totaliza R$430,9M em 2024, com:\n1) Edifícios/Instalações: R$211,4M (49,1%)\n2) Máquinas/Equipamentos: R$106,6M (24,7%)\n3) Veículos: R$5,4M (1,2%)\n4) Direito de Uso (CPC 06): R$27,4M (6,4%)\nDepreciação acumulada: R$92,5M (21,5% do custo total)\nTaxas de depreciação variam de 1,67% a 50% ao ano, conforme tipo de ativo."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças com foco no setor agroindustrial. Responda de forma técnica e precisa sobre demonstrações financeiras de cooperativas."
+    },
+    {
+      "role": "user",
+      "content": "Qual a situação dos impostos a recuperar da Holambra?"
+    },
+    {
+      "role": "assistant",
+      "content": "A Holambra possui R$32,7M em impostos a recuperar (2024), sendo:\n1) ICMS: R$15,5M (47,4% do total)\n2) PIS/COFINS: R$6,3M (19,3%)\n3) IR/CSLL: R$4,8M (14,7%)\n4) Outros: R$6,1M (18,6%)\nDestaque para provisão de R$21,2M para perdas com créditos tributários (65% do total), indicando cautela na realização desses ativos."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um especialista em contabilidade e finanças com foco no setor agroindustrial. Responda de forma técnica e precisa sobre demonstrações financeiras de cooperativas."
+    },
+    {
+      "role": "user",
+      "content": "Como a Holambra contabiliza suas vendas contratadas a serem faturadas?"
+    },
+    {
+      "role": "assistant",
+      "content": "A Holambra contabiliza as vendas contratadas em duas modalidades:\n1) Insumos Agrícolas (R$54,3M em 2024): Reconhecimento no resultado no ato da remessa aos produtores, mediante NF de simples faturamento\n2) Produtos Agrícolas (R$104,1M em 2024): Registro no faturamento efetivo ao cliente, baseado em contratos de compra e venda\nTotal 2024: R$158,5M (aumento de 27,7% vs 2023)"
+    }
+  ]
+}
+
+
+
+
 {
   "messages": [
     {
