@@ -20,7 +20,17 @@
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "Quais são as situações mais pertinentes para o uso do posicionamento 'Cultura de Qualidade'?"}, {"role": "assistant", "content": "O posicionamento 'Cultura de Qualidade' é mais pertinente em campanhas de mídia, ações de relacionamento com cooperados e parceiros, comunicações institucionais internas, esforços digitais de amplo alcance e ações de fomento ao pertencimento e à cultura. Em peças institucionais de longa vida ou posts digitais pontuais, o uso é menos indicado."}]}
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "Como deve ser a aplicação gráfica da assinatura 'Cultura de Qualidade'?"}, {"role": "assistant", "content": "A assinatura 'Cultura de Qualidade' deve ser aplicada em caixa alta e baixa, usando a fonte Gibson SemiBold, e sempre com ponto final. A cor da assinatura deve ser a mesma do logo, e não deve ser maior que o logotipo. O uso de outras fontes, cores diferentes ou caixa alta completa é proibido."}]}
 {"messages": [{"role": "system", "content": "Você é um assistente especializado em branding e identidade visual, com foco em estratégias de marca e design. Seja claro, objetivo e informativo."}, {"role": "user", "content": "Qual é o elemento gráfico extraído do símbolo da Holambra Cooperativa?"}, {"role": "assistant", "content": "O elemento gráfico extraído do símbolo da Holambra Cooperativa é a hélice de pás do moinho. Ela pode ser explorada de diversas formas, como cortes e close-ups, e usada em composições com fotos e cores. A hélice deve ser aplicada em 45 graus e pode ser animada (girando), desde que termine na posição inicial. Versões coloridas só podem ser usadas em fundo branco, enquanto a versão branca pode ser usada em fundos coloridos."}]}
+{"messages": [{"role": "system", "content": "Você é um especialista em contabilidade e finanças corporativas, com profundo conhecimento em normas contábeis brasileiras. Responda de forma técnica e precisa."}, {"role": "user", "content": "Quais são as principais políticas contábeis da Holambra para caixa e equivalentes?"}, {"role": "assistant", "content": "A Holambra classifica como equivalentes de caixa aplicações com vencimento original ≤3 meses, sujeitas a risco insignificante de mudança de valor. São mensurados ao custo acrescido de rendimentos até a data do balanço, com cálculo do valor justo baseado em cotações de mercado quando aplicável. Inclui saldos em caixa, depósitos à vista e aplicações de liquidez imediata."}]}
 
+{"messages": [{"role": "system", "content": "Você é um especialista em contabilidade e finanças corporativas, com profundo conhecimento em normas contábeis brasileiras. Responda de forma técnica e precisa."}, {"role": "user", "content": "Como a Holambra trata os ativos financeiros em suas demonstrações?"}, {"role": "assistant", "content": "A Holambra classifica ativos financeiros em duas categorias: 1) Mensurados ao valor justo pelo resultado (com custos transacionais alocados no DRE), e 2) Empréstimos/recebíveis (custos amortizados pelo método da taxa efetiva). Não mantém ativos 'disponíveis para venda'. Recebíveis são classificados como circulantes (vencimento ≤12 meses) ou não circulantes, com baixa quando transferidos riscos/benefícios."}]}
+
+{"messages": [{"role": "system", "content": "Você é um especialista em contabilidade e finanças corporativas, com profundo conhecimento em normas contábeis brasileiras. Responda de forma técnica e precisa."}, {"role": "user", "content": "Qual a política de impairment de ativos da Holambra?"}, {"role": "assistant", "content": "A Holambra aplica impairment quando: 1) Há evidência objetiva de perda (dificuldade financeira do devedor/queda contratual), 2) Valor contábil > valor recuperável, e 3) Fluxos futuros são estimáveis. Para ativos financeiros: avaliação individual de títulos duvidosos (CPC 48). Para não financeiros: revisão periódica com reversão se houver melhora nas condições. Em 2024, não foram identificados impairments necessários em ativos não financeiros."}]}
+
+{"messages": [{"role": "system", "content": "Você é um especialista em contabilidade e finanças corporativas, com profundo conhecimento em normas contábeis brasileiras. Responda de forma técnica e precisa."}, {"role": "user", "content": "Como são contabilizados os estoques na Holambra?"}, {"role": "assistant", "content": "Os estoques são mensurados pelo menor valor entre: 1) Custo (método da média ponderada móvel, incluindo gastos de aquisição e alocação), e 2) Valor líquido de realização (preço de venda estimado - custos de conclusão - despesas de venda). Produtos agrícolas seguem NBC TG 16 e ITG 2004 do CFC, com cubagem física em todas unidades e avaliação de riscos de variação de preços."}]}
+
+{"messages": [{"role": "system", "content": "Você é um especialista em contabilidade e finanças corporativas, com profundo conhecimento em normas contábeis brasileiras. Responda de forma técnica e precisa."}, {"role": "user", "content": "Qual o tratamento contábil do imobilizado e intangível?"}, {"role": "assistant", "content": "Imobilizado: Reconhecido pelo custo histórico + gastos diretamente atribuíveis, depreciado linearmente/produção (vidas úteis: 1,67%-50% ao ano). Componentes com vidas diferentes são registrados separadamente. Intangível: Marcas/patentes/softwares amortizados em 2-10 anos. Ambos são ajustados por avaliação de peritos e testados para impairment, com ganhos/perdas na alienação reconhecidos no resultado."}]}
+
+{"messages": [{"role": "system", "content": "Você é um especialista em contabilidade e finanças corporativas, com profundo conhecimento em normas contábeis brasileiras. Responda de forma técnica e precisa."}, {"role": "user", "content": "Como a Holambra trata as subvenções governamentais?"}, {"role": "assistant", "content": "Reconhecidas quando há certeza razoável de recebimento e cumprimento de condições. As referentes a ICMS (Lei Complementar 160/2017) são consideradas subvenções para investimento (dedutíveis no IR/CSLL). Alocadas sistematicamente contra os custos que visam compensar. Em 2024, destacou-se o tratamento de R$39,2 milhões não recolhidos de Funrural sobre exportações indiretas, com termos de responsabilidade assinados pelos produtores."}]}
 {
   "messages": [
     {
@@ -37,6 +47,93 @@
     }
   ]
 }
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um analista financeiro especializado em cooperativas agroindustriais. Responda com precisão técnica sobre demonstrações financeiras."
+    },
+    {
+      "role": "user",
+      "content": "Como evoluiu a estrutura de custos da Holambra em 2024?"
+    },
+    {
+      "role": "assistant",
+      "content": "A estrutura de custos em 2024 mostrou:\n1) Redução de 3,9% nos custos de produção (R$1.133,0 milhões vs R$1.298,6 milhões em 2023)\n2) Aumento de 5,9% em salários/encargos (R$918,6 milhões)\n3) Crescimento de 34,6% em serviços de terceiros (R$70,3 milhões)\n4) Queda de 46,4% na provisão para perdas (R$2,4 milhões)\n5) Custos com distribuição reduziram 26,4% (R$12,4 milhões), indicando ganhos de eficiência logística."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um analista financeiro especializado em cooperativas agroindustriais. Responda com precisão técnica sobre demonstrações financeiras."
+    },
+    {
+      "role": "user",
+      "content": "Quais são os principais riscos financeiros gerenciados pela Holambra?"
+    },
+    {
+      "role": "assistant",
+      "content": "A Holambra gerencia ativamente 4 riscos principais:\n1) Taxa de Juros: Diversificação entre taxas fixas/variáveis (exposição de R$654,7 milhões em empréstimos)\n2) Mercado: Hedge natural via compra/venda casada de grãos (evitando volatilidade de preços)\n3) Crédito: Análise rigorosa de contrapartes (carteira de R$197,1 milhões em recebíveis)\n4) Liquidez: Índices saudáveis (1,24 corrente e 0,97 geral) com monitoramento contínuo de fluxo de caixa\nAdicionalmente, mantém seguro de R$938,5 milhões contra sinistros operacionais."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um analista financeiro especializado em cooperativas agroindustriais. Responda com precisão técnica sobre demonstrações financeiras."
+    },
+    {
+      "role": "user",
+      "content": "Como está composta a carteira de instrumentos financeiros da Holambra?"
+    },
+    {
+      "role": "assistant",
+      "content": "A carteira em 2024 apresenta:\nATIVOS (R$716,6 milhões):\n- Caixa/bancos: R$7,1 milhões\n- Aplicações: R$274,3 milhões (CDI e equivalentes)\n- Recebíveis: R$197,1 milhões (cooperados) + R$238,1 milhões (terceiros)\n\nPASSIVOS (R$831,7 milhões):\n- Empréstimos: R$654,7 milhões\n- Fornecedores: R$87,6 milhões\n- Obrigações com cooperados: R$83,9 milhões\n\nDestaque para crescimento de 35,8% nas aplicações financeiras e redução de 9,3% no endividamento."
+    }
+  ]
+}
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um analista financeiro especializado em cooperativas agroindustriais. Responda com precisão técnica sobre demonstrações financeiras."
+    },
+    {
+      "role": "user",
+      "content": "Quais foram os benefícios concedidos aos colaboradores em 2024?"
+    },
+    {
+      "role": "assistant",
+      "content": "Os benefícios totalizaram R$74,0 milhões em 2024, distribuídos em:\n1) Salários/Encargos: R$42,2 milhões (57% do total)\n2) Vale-Transporte: R$2,4 milhões\n3) Plano Saúde: R$13,5 milhões\n4) Vale-Refeição: R$3,9 milhões\n5) Participação nos Lucros: R$1,7 milhões\n6) Outros: R$6,3 milhões (incluindo assistência educacional)\nA relação benefícios/receitas foi de 3,2%, mantendo alinhamento com práticas de mercado."
+    }
+  ]
+}
+
+
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "Você é um analista financeiro especializado em cooperativas agroindustriais. Responda com precisão técnica sobre demonstrações financeiras."
+    },
+    {
+      "role": "user",
+      "content": "Quais foram os principais resultados operacionais da Holambra em 2024?"
+    },
+    {
+      "role": "assistant",
+      "content": "Em 2024, a Holambra apresentou:\n1) Receitas Operacionais Líquidas: R$1.586,2 milhões (cooperativos) + R$693,8 milhões (não cooperativos) = R$2.280 milhões totais\n2) Custo das Mercadorias Vendidas: R$2.223,5 milhões\n3) Lucro Bruto: R$228,4 milhões\n4) Resultado Financeiro Líquido: Prejuízo de R$20,7 milhões\n5) Lucro Líquido do Exercício: R$38,1 milhões\nDestaque para crescimento de 5,7% nas receitas cooperativas, enquanto as não cooperativas caíram 19,4%."
+    }
+  ]
+}
+
+
 
 {
   "messages": [
